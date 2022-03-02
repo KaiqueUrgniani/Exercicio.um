@@ -1,0 +1,14 @@
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\bin\Debug\netcoreapp3.1\Exercicio.Um.exe
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\bin\Debug\netcoreapp3.1\Exercicio.Um.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\bin\Debug\netcoreapp3.1\Exercicio.Um.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\bin\Debug\netcoreapp3.1\Exercicio.Um.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\bin\Debug\netcoreapp3.1\Exercicio.Um.dll
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\bin\Debug\netcoreapp3.1\Exercicio.Um.pdb
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.dll
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.pdb
+C:\Users\facec.lab04\source\repos\Facec.Exercicios\Exercicio.Um\obj\Debug\netcoreapp3.1\Exercicio.Um.genruntimeconfig.cache
