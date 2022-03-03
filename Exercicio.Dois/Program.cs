@@ -6,7 +6,16 @@ namespace Exercicio.Dois
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Valor");
+            static void Main()
+            {
+                Console.Write("valor Real");
+                float valorReal = float.Parse(Console.ReadLine());
+
+                double valorDolar = valorReal / 0.193259;
+
+                Console.WriteLine("$ = " + valorDolar);
+            }
         }
     }
 }
